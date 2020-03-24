@@ -1,0 +1,26 @@
+{
+  "name": "plusAdd",
+  "version": "1.0.0",
+  "description": "大整数加法打包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TH-coder/plusAdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TH-coder/plusAdd/issues"
+  },
+  "homepage": "https://github.com/TH-coder/plusAdd#readme",
+  "devDependencies": {
+    "terser-webpack-plugin": "^2.3.5",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
